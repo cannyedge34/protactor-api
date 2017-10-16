@@ -1,4 +1,4 @@
-# Angular TDD Chapter5 Source
+# Angular TDD Source
 
 This repository exists primarily to get you started quickly with learning and prototyping in Angular. It's been extended with testing support so you can start writing tests immediately.
 
