@@ -19,7 +19,7 @@ We recommend [nvm](https://github.com/creationix/nvm) for managing multiple vers
 
 Clone this repo into new project folder (e.g., `my-proj`).
 ```bash
-git clone  https://github.com/jquerygeek/angular-TDD-chapter-5 my-proj
+git clone  https://github.com/cannyedge34/Angular-Protractor-APIs.git
 cd my-proj
 ```
 
